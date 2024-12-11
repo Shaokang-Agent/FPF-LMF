@@ -11,7 +11,6 @@ Please follow the instruction of 'README.md' file in different environments to i
 title = {Beyond Mandatory Federations: Balancing Egoism, Utilitarianism and Egalitarianism in Mixed-Motive Games},
 booktitle = {{AAAI} Conference on Artificial Intelligence, {AAAI}},
 year = {2025},
-issn = {0893-6080},
 author = {Shaokang Dong and Chao Li and Shangdong Yang and Hongye Cao and Wanqi Yang and Yang Gao},
 }
 ```
