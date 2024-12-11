@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# FPF-LMF
-Implementation of the paper "Beyond Mandatory Federations: Balancing Egoism, Utilitarianism and Egalitarianism in Mixed-Motive Games"
-=======
 # FPF/LMF
 
 This is the code for the paper "Beyond Mandatory Federations: Balancing Egoism, Utilitarianism and Egalitarianism in Mixed-Motive Games".
@@ -19,4 +15,3 @@ issn = {0893-6080},
 author = {Shaokang Dong and Chao Li and Shangdong Yang and Hongye Cao and Wanqi Yang and Yang Gao},
 }
 ```
->>>>>>> 3c694fe (update)
